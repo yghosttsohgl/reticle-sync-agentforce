@@ -1,0 +1,14 @@
+{
+  "salesforce.java.home": "/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sf": true,
+    "**/.sfdx": true
+  },
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Always format the commit message as a Conventional Commit: `type(scope): subject`. Allowed types: feat, fix, chore, docs, refactor, test, build, ci, perf, style, revert. Scope is optional and lowercase. Subject is imperative mood, no trailing period, max 72 chars. Add a body only when it explains the why."
+    }
+  ]
+}
