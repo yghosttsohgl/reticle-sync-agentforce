@@ -3,7 +3,7 @@
     <fullName>Error_Message__c</fullName>
     <label>Error Message</label>
     <length>32768</length>
-    <required>false</required>
-    <visibleLines>5</visibleLines>
+    <trackTrending>false</trackTrending>
     <type>LongTextArea</type>
+    <visibleLines>5</visibleLines>
 </CustomField>

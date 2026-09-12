@@ -3,5 +3,6 @@
     <fullName>Purchase_Date__c</fullName>
     <label>Purchase Date</label>
     <required>true</required>
+    <trackTrending>false</trackTrending>
     <type>Date</type>
 </CustomField>
