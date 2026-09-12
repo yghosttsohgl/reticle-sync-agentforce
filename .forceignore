@@ -12,3 +12,9 @@ package.xml
 **/__tests__/**
 
 node_modules/
+
+# Phantom default Digital Experiences artifact — not retrievable, breaks source tracking
+**/digitalExperiences/**
+
+# Default org security policy — not managed as source
+**/transactionSecurityPolicies/**
