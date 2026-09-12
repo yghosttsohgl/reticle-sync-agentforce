@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+	<deploymentStatus>Deployed</deploymentStatus>
+	<label>Warranty Registration</label>
+	<pluralLabel>Warranty Registrations</pluralLabel>
+	<nameField>
+		<label>Warranty Registration Name</label>
+		<type>AutoNumber</type>
+        <displayFormat>WR-{0000}</displayFormat>        
+	</nameField>
+	<sharingModel>ReadWrite</sharingModel>
+	<visibility>Public</visibility>
+</CustomObject>
